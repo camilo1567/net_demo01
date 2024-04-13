@@ -1,0 +1,15 @@
+C:\repo .net\Demo01\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\repo .net\Demo01\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\repo .net\Demo01\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\repo .net\Demo01\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\repo .net\Demo01\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
+C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
