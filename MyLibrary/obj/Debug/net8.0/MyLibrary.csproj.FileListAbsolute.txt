@@ -10,3 +10,4 @@ C:\repo .net\Demo01\MyLibrary\obj\Debug\net8.0\MyLibrary.dll
 C:\repo .net\Demo01\MyLibrary\obj\Debug\net8.0\refint\MyLibrary.dll
 C:\repo .net\Demo01\MyLibrary\obj\Debug\net8.0\MyLibrary.pdb
 C:\repo .net\Demo01\MyLibrary\obj\Debug\net8.0\ref\MyLibrary.dll
+C:\repo .net\Demo01\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.AssemblyReference.cache

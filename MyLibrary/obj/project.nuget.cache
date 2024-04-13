@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gSWRoT5Kp0mYcQWWpz+J+mmF4qlQL0cXZr+GbNLnMlmaJmJ2biJlEIdD+CmJ+CQ3UAilbB1P4DHIhvx1Vh+8Kg==",
+  "dgSpecHash": "CL3j0Afac48BiaRMEotbt0nj6CaTDFTC2RYgxRufnyulBY6nXlQalJPLRaxb12eoEPT8Md7DXvIoJ0PM37IWDQ==",
   "success": true,
   "projectFilePath": "C:\\repo .net\\Demo01\\MyLibrary\\MyLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\horta\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
   "logs": []
 }
