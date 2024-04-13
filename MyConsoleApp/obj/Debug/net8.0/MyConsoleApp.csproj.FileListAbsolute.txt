@@ -13,3 +13,7 @@ C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
 C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
 C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
 C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
+C:\repo .net\Demo01\MyConsoleApp\bin\Debug\net8.0\MyLibrary.dll
+C:\repo .net\Demo01\MyConsoleApp\bin\Debug\net8.0\MyLibrary.pdb
+C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\repo .net\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsol.4CA403AE.Up2Date

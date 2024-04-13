@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace MyLibrary;
 
-namespace MyLibrary
+public class MessageWriter
 {
-    internal class MessageWriter
+    public void Write(String message)
     {
+        Console.WriteLine(message);
     }
+
 }
+
+
